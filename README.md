@@ -5,7 +5,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-gupta-79b967360)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:avigupta@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:avi.gupta_ugdsai2029@mastersunion.org)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://avi-gupta-portfolio.netlify.app)
 ![Profile Views](https://komarev.com/ghpvc/?username=avig14&color=6366f1&style=flat&label=Profile+Views)
 
 </div>
@@ -14,7 +15,7 @@
 
 ### 👋 Hey, I'm Avi
 
-First-year DS/AI student (Masters' Union × IIT Guwahati) with **3 internships** and **live production projects** — I build AI systems that actually ship.
+First-year DS/AI student (Masters' Union × IIT Guwahati) with **4 internships** and **live production projects** — I build AI systems that actually ship.
 
 - 🏥 **P-MACS** — 22-tool LangChain agent for hospital pharmacy · 7 ML models · deployed on Next.js
 - 🚦 **Traffic Enforce** — Flutter APK for Delhi Police Civic Tech Challenge · ANPR + tamper-proof evidence
